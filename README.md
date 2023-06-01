@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/Chau999/gp_shap/blob/dev/docs/img/illustration.png" alt="figure" width="300"/>
+<img src="https://github.com/Chau999/gp_shap/blob/dev/docs/img/illustration.png" alt="figure" width="600"/>
 </p>
 
 
