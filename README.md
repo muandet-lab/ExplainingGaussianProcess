@@ -1,4 +1,13 @@
 # GP-SHAP: Explaining Gaussian Process Models
+
+
+[//]: # (<p align="center">)
+
+[//]: # (<img src="/Users/slchau/Documents/research_projects/gp_shap/docs/img/illustration.png" alt="figure" width="300"/>)
+
+[//]: # (</p>)
+
+
 A simple illustration to run RKHS-SHAP, GP-SHAP, and BayesGPSHAP to explain kernel methods and Gaussian process.
 
 The algorithms used in this repo came primarily out of the following papers. If you use RKHS-SHAP or GP-SHAP in your research we would appreciate a citation to the appropriate paper(s):
