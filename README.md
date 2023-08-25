@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/Chau999/gp_shap/blob/main/docs/img/illustration.png" alt="figure" width="600"/>
+<img src="https://github.com/muandet-lab/ExplainingGaussianProcess/blob/main/docs/img/illustration.png" alt="figure" width="600"/>
 </p>
 
 
