@@ -22,7 +22,7 @@ The algorithms used in this repo came primarily out of the following papers. If 
 @article{chau2023explaining,
   title={Explaining the Uncertain: Stochastic Shapley Values for Gaussian Process Models},
   author={Chau, Siu Lun and Muandet, Krikamol and Sejdinovic, Dino},
-  journal={arXiv preprint arXiv:2305.15167},
+  journal={To appear in Advances in Neural Information Processing Systems},
   year={2023}
 }
 ```
