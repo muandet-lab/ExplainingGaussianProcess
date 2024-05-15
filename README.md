@@ -19,11 +19,17 @@ The algorithms used in this repo came primarily out of the following papers. If 
   year={2022}
 }
 
-@article{chau2023explaining,
-  title={Explaining the Uncertain: Stochastic Shapley Values for Gaussian Process Models},
-  author={Chau, Siu Lun and Muandet, Krikamol and Sejdinovic, Dino},
-  journal={To appear in Advances in Neural Information Processing Systems},
-  year={2023}
+@inproceedings{NEURIPS2023_9f0b1220,
+ author = {Chau, Siu Lun and Muandet, Krikamol and Sejdinovic, Dino},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
+ pages = {50769--50795},
+ publisher = {Curran Associates, Inc.},
+ title = {Explaining the Uncertain: Stochastic Shapley Values for Gaussian Process Models},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/9f0b1220028dfa2ee82ca0a0e0fc52d1-Paper-Conference.pdf},
+ volume = {36},
+ year = {2023}
 }
+
 ```
 
